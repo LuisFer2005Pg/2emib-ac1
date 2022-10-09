@@ -1,2 +1,9 @@
-# 2emib-ac1
-Um site de notícias
+# Betta Site
+Um site de notícias do mundo da tecnologia
+## Autores
+- Luis Fernando Picarelli
+- Fabricio Bettarello
+- Luiz Felipe
+- Henrico Vieira
+- Leandro Guarido
+- Eric Yuji
