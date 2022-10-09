@@ -7,3 +7,4 @@ Um site de notícias do mundo da tecnologia
 - Henrico Vieira
 - Leandro Guarido
 - Eric Yuji
+## Print do APP
