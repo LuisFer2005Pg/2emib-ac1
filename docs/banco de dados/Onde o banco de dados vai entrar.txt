@@ -1,0 +1,4 @@
+Onde vai entrar o banco de dados?
+
+Vamos usar o banco de dados para as notícias relevantes onde enviaremos o título, o texto é a imagem, além do botão de saiba mais.
+Também vamos fazer um sistema de login para acessar e atualizar as notícias relevantes.
